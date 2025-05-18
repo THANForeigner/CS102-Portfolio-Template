@@ -37,7 +37,7 @@ export const EMAIL = 'my@email.com'
 export const WEB_TITLE = 'Name - Personal Website'
 export const WEB_DESCRIPTION =
   'A personal website showcasing my work and projects.'
-export const FOOTER_COPYRIGHT = '© 2025 Nguyen Van B.'
+export const FOOTER_COPYRIGHT = '© 2025 Nguyen Diep Than.'
 export const FOOTER_LINK = 'https://github.com/username/'
 
 export const NAME = 'Nguyen Diep Than'
